@@ -60,9 +60,18 @@ def is_highways_item(title, description):
 
 
 def priority_score(title, description):
-    text = f"{title} {description}".lower()
-    return sum(keyword in text for keyword in PRIORITY_KEYWORDS)
+    title_text = title.lower()
+    full_text = f"{title} {description}".lower()
 
+    score = 0
+
+    for keyword in PRIORITY_KEYWORDS:
+        if keyword in title_text:
+            score += 10
+        elif keyword in full_text:
+            score += 5
+
+    return score
 
 def build_feed():
     source = download(RSS_URL)
