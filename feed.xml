@@ -1,9 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>Warwickshire Highways &amp; Gritting</title>
-    <link>https://www.warwickshire.gov.uk/</link>
-    <description>Warwickshire highways updates including roadworks, road closures, resurfacing, temporary traffic lights, gritting, snow and ice information.</description>
-    <language>en-gb</language>
-  </channel>
+<channel>
+<title>Warwickshire Highways &amp; Gritting</title>
+<link>https://www.warwickshire.gov.uk/roadworks</link>
+<description>Warwickshire roadworks, road closures, resurfacing, highways and gritting updates. Coleshill and B46 items are prioritised.</description>
+<language>en-gb</language>
+<lastBuildDate>Sun, 26 Jul 2026 00:46:21 +0000</lastBuildDate>
+<item>
+<title>Has your business been targeted by ransomware?</title>
+<link>https://www.warwickshire.gov.uk/news/article/7951/has-your-business-been-targeted-by-ransomware-</link>
+<guid>https://www.warwickshire.gov.uk/news/article/7951/has-your-business-been-targeted-by-ransomware-</guid>
+<description>Advice and guidance on how to protect your business and what to do if you are under attack</description>
+<pubDate>Fri, 24 Jul 2026 10:56:00 +0100</pubDate>
+</item>
+<item>
+<title>Selling your car privately? Then watch out!</title>
+<link>https://www.warwickshire.gov.uk/news/article/7950/selling-your-car-privately-then-watch-out-</link>
+<guid>https://www.warwickshire.gov.uk/news/article/7950/selling-your-car-privately-then-watch-out-</guid>
+<description>Help and advice on scam prevention and product safety warnings</description>
+<pubDate>Fri, 24 Jul 2026 10:17:00 +0100</pubDate>
+</item>
+<item>
+<title>D6374 Chapel Lane, Bishops Itchington - Footway resurfacing</title>
+<link>https://www.warwickshire.gov.uk/news/article/7942/d6374-chapel-lane-bishops-itchington-footway-resurfacing</link>
+<guid>https://www.warwickshire.gov.uk/news/article/7942/d6374-chapel-lane-bishops-itchington-footway-resurfacing</guid>
+<description>Information on temporary closure of D6374 Chapel Lane, Bishops Itchington for Footway resurfacing.</description>
+<pubDate>Wed, 22 Jul 2026 11:16:00 +0100</pubDate>
+</item>
+<item>
+<title>D4306 Woodcote Road, Leamington Spa - Carriageway resurfacing</title>
+<link>https://www.warwickshire.gov.uk/news/article/7940/d4306-woodcote-road-leamington-spa-carriageway-resurfacing</link>
+<guid>https://www.warwickshire.gov.uk/news/article/7940/d4306-woodcote-road-leamington-spa-carriageway-resurfacing</guid>
+<description>Information on the temporary closure of D4306 Woodcote Road, Leamington Spa for Carriageway resurfacing.</description>
+<pubDate>Wed, 22 Jul 2026 11:03:00 +0100</pubDate>
+</item>
+<item>
+<title>Discover Warwickshire’s Living Well resources for a happier, healthier summer</title>
+<link>https://www.warwickshire.gov.uk/news/article/7935/discover-warwickshire-s-living-well-resources-for-a-happier-healthier-summer-</link>
+<guid>https://www.warwickshire.gov.uk/news/article/7935/discover-warwickshire-s-living-well-resources-for-a-happier-healthier-summer-</guid>
+<description>Warwickshire residents are being encouraged to make the most of the wide range of support, advice and opportunities available through Warwickshire County Council’s Living Well webpages this summer.</description>
+<pubDate>Mon, 20 Jul 2026 17:10:00 +0100</pubDate>
+</item>
+</channel>
 </rss>
