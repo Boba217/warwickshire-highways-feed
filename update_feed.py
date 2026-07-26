@@ -6,25 +6,25 @@ from html import escape
 RSS_URL = "https://www.warwickshire.gov.uk/rss/news"
 
 KEYWORDS = [
-    "roadwork",
+ "roadwork",
     "roadworks",
     "road closure",
-    "closure",
+    "road closed",
+    "temporary road closure",
     "resurfacing",
-    "carriageway",
-    "footway",
-    "highway",
-    "highways",
-    "traffic lights",
-    "temporary lights",
+    "carriageway resurfacing",
+    "footway resurfacing",
+    "surface dressing",
+    "temporary traffic lights",
+    "temporary signals",
+    "traffic management",
     "gritting",
     "gritter",
-    "salt",
-    "salting",
-    "snow",
-    "ice",
+    "gritting route",
     "winter service",
 ]
+
+
 
 PRIORITY_KEYWORDS = [
     "coleshill",
